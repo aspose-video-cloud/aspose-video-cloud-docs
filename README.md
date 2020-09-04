@@ -1,0 +1,1 @@
+This repository contains Aspose.Video Cloud documentation.
